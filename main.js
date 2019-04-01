@@ -1,1 +1,1 @@
-let lottery = [16, 78, 76, ]
+let lottery = [16, 78, 76, 25 ]
